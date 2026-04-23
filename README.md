@@ -1,3 +1,4 @@
+![Cypress Tests](https://github.com/Sughey0803/qa-automation-portfolio/actions/workflows/ci.yml/badge.svg)
 # QA Automation Portfolio 🚀
 QA Automation Framework using Cypress for API testing with dynamic data, custom commands and CI/CD integration.
 ##  Description
